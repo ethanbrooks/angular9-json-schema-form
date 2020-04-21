@@ -1,7 +1,7 @@
 {
-  "name": "angular6-json-schema-form-app",
+  "name": "angular9-json-schema-form-app",
   "version": "7.0.5",
-  "author": "https://github.com/hamzahamidi/Angular6-json-schema-form/graphs/contributors",
+  "author": "https://github.com/hamzahamidi/angular9-json-schema-form/graphs/contributors",
   "description": "Angular JSON Schema Form builder Demo",
   "engines": {
     "node": ">=8.9.0",
@@ -10,7 +10,7 @@
   "keywords": [
     "Angular",
     "ng",
-    "Angular6",
+    "angular9",
     "Angular 6",
     "ng6",
     "Angular7",
@@ -24,23 +24,23 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hamzahamidi/angular6-json-schema-form"
+    "url": "git+https://github.com/hamzahamidi/angular9-json-schema-form"
   },
   "bugs": {
-    "url": "https://github.com/hamzahamidi/angular6-json-schema-form/issues"
+    "url": "https://github.com/hamzahamidi/angular9-json-schema-form/issues"
   },
-  "homepage": "https://github.com/hamzahamidi/Angular6-json-schema-form#readme",
+  "homepage": "https://github.com/hamzahamidi/angular9-json-schema-form#readme",
   "scripts": {
     "ng": "ng",
     "prestart": "npm run buildlibdev",
     "start": "ng serve",
     "start-prod": "ng serve --prod",
     "build": "ng build --prod --base-href ./",
-    "buildlibdev": "ng build angular6-json-schema-form",
-    "buildlib": "ng build angular6-json-schema-form --prod",
-    "postbuildlib": "cp  README.md LICENSE  dist/angular6-json-schema-form/",
+    "buildlibdev": "ng build angular9-json-schema-form",
+    "buildlib": "ng build angular9-json-schema-form --prod",
+    "postbuildlib": "cp  README.md LICENSE  dist/angular9-json-schema-form/",
     "prestats": "ng build --prod --stats-json",
-    "stats": "webpack-bundle-analyzer dist/angular6-json-schema-form-app/stats.json",
+    "stats": "webpack-bundle-analyzer dist/angular9-json-schema-form-app/stats.json",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

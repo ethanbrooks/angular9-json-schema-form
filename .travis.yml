@@ -21,5 +21,4 @@ deploy:
   keep-history: true
   on:
     branch: master
-  local_dir: dist/angular6-json-schema-form-app
-  
+  local_dir: dist/angular9-json-schema-form-app

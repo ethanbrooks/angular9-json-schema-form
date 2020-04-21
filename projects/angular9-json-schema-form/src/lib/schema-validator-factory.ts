@@ -1,5 +1,5 @@
 /**
- * An abstract AJV validator to allow sharing of the AJV instance outside of angular6-json-schema-form.
+ * An abstract AJV validator to allow sharing of the AJV instance outside of angular9-json-schema-form.
  *
  * This can be used to replace the AJV instance by providing an alternative factory in the module.
  * In this way teh AJV instance and registered schemas can be shared across the application.
