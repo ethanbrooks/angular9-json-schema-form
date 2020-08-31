@@ -9135,13 +9135,10 @@ ts-node@~9.0.0:
     source-map-support "^0.5.17"
     yn "3.1.1"
 
-tsickle@>=0.29.0:
-  version "0.33.1"
-  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.33.1.tgz#eee4ebabeda3bcd8afc32cee34c822cbe3e839ec"
-  dependencies:
-    minimist "^1.2.0"
-    mkdirp "^0.5.1"
-    source-map "^0.7.3"
+tsickle@>=0.39.0:
+  version "0.39.0"
+  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.39.0.tgz#9b8da85a4f0664a1e696b85de461dec2c5e15f4b"
+  integrity sha512-mNk+FZXPQeyqbbUYylGbLSRGPZAcUMhG98LfCNnK1mZuXj7XuJeQrqiWXKKRpBK8SFfJWSi7wTMZKGSOb4klJQ==
 
 tslib@1.11.1:
   version "1.11.1"
